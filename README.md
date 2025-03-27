@@ -1,3 +1,3 @@
 # Common
 
-This folder contains common files used by SafaOS.
+This folder contains common files and scripts used by SafaOS.
